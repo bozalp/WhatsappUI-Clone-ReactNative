@@ -2,7 +2,7 @@
 
 -Whatsapp UI Clone.
 
-This project was designed with React Native CLI.<br>
+This project designed with React Native CLI.<br>
 <b>Packages used</b><br>
 -React Navigation<br>
 -React Native Icons<br>
